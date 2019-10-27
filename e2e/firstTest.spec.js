@@ -1,4 +1,4 @@
-// import { element, device, by } from 'detox';
+import { element, device, by } from 'detox';
 
 describe('Example', () => {
   beforeEach(async () => {
